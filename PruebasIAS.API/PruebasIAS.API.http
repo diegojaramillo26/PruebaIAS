@@ -1,0 +1,6 @@
+@PruebasIAS.API_HostAddress = http://localhost:5214
+
+GET {{PruebasIAS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
